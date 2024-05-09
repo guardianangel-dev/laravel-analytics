@@ -1,5 +1,5 @@
 {
-	"name": "ipunkt/laravel-analytics",
+	"name": "guardianangel-dev/laravel-analytics",
 	"type": "library",
 	"description": "Analytics tracking for Laravel",
 	"keywords": ["analytics", "google analytics", "laravel", "statistics", "javascript", "php"],
